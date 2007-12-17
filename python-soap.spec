@@ -8,7 +8,6 @@ Patch0:          SOAPpy-0.12.0-future.patch
 URL:             http://pywebsvcs.sourceforge.net/
 License:         BSD
 Group:           Development/Python
-BuildRoot:       %{_tmppath}/%{name}-buildroot
 BuildArch:       noarch
 Requires:        python-fpconst
 BuildRequires:   python-fpconst
