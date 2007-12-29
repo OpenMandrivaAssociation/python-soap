@@ -1,7 +1,7 @@
 Name:            python-soap
 Summary:         A SOAP library for python
 Version:         0.12.0
-Release:         %mkrel 3
+Release:         %mkrel 4
 Epoch:           0
 Source0:         http://ovh.dl.sourceforge.net/sourceforge/pywebsvcs/SOAPpy-%{version}.tar.bz2
 Patch0:          SOAPpy-0.12.0-future.patch
