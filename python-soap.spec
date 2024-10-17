@@ -5,7 +5,7 @@ Release:         10
 Epoch:           0
 Source0:         http://ovh.dl.sourceforge.net/sourceforge/pywebsvcs/SOAPpy-%{version}.tar.bz2
 Patch0:          SOAPpy-0.12.0-future.patch
-URL:             http://pywebsvcs.sourceforge.net/
+URL:             https://pywebsvcs.sourceforge.net/
 License:         BSD
 Group:           Development/Python
 BuildRoot:       %{_tmppath}/%{name}-buildroot
